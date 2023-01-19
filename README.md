@@ -7,29 +7,29 @@ Kursbegleitende Materialien zum Netzwerkgrundlagen Kurs der ppedv AG
 
 
 ## Agenda
-- ISO / OSI Layer
- ## 7 Schichten Model
- ## Alle 7 Layer behandelt
-- Hilfreiche Befehle
- ## ping, ipconfig, tracrt, nslookup, ...
-- Netzwerkgeräte
- ## Router, Switch und Hub
-- Topologien
- ## Token Ring, Bus und Stern
- ## Übungen zum Berechnen
-- Routing 
- ## Was ist Routing und wozu wird es benötigt
-- IP
- ## IP-Adressen/Subnetze berechnen
-- IPv6
- ## Unterschiede zu IPv4
-- VPN
-- VLAN
- ## VLAN-Typen
- ## Beispiele
-- DNS
-- DHCP
- ## DHCP Failover-Beziehung
-- Grundlegender Einsteig Hyper-V
-- kurzeinstieg Windows Server
-- NAT
+## ISO / OSI Layer
+ - 7 Schichten Model
+ - Alle 7 Layer behandelt
+## Hilfreiche Befehle
+ - ping, ipconfig, tracrt, nslookup, ...
+## Netzwerkgeräte
+ - Router, Switch und Hub
+## Topologien
+ - Token Ring, Bus und Stern
+ - Übungen zum Berechnen
+## Routing 
+ - Was ist Routing und wozu wird es benötigt
+## IP
+ - IP-Adressen/Subnetze berechnen
+## IPv6
+ - Unterschiede zu IPv4
+## VPN
+## VLAN
+ - VLAN-Typen
+ - Beispiele
+## DNS
+## DHCP
+ - DHCP Failover-Beziehung
+## Grundlegender Einsteig Hyper-V
+## kurzeinstieg Windows Server
+## NAT
